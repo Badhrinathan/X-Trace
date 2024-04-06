@@ -17,9 +17,13 @@ X-Trace provides a platform to retrieve historical tweets from suspended account
 2. Install dependencies using `pip install os requests argparse Flask`.
 3. Run the Flask application using `python app.py`.
 4. Access the application via the provided URL in your web browser.
-   ![index page](https://github.com/Badhrinathan/X-Trace/blob/main/hackathon1.jpg)
-6. Use the intuitive interface to retrieve and analyze suspended account tweets.
-   ![result page](https://github.com/Badhrinathan/X-Trace/blob/main/hackathon2.jpg)
+   - Enter the username.
+   - Specify the location to save the results.
+   - Click the Submit button.
+   ![Index Page](https://github.com/Badhrinathan/X-Trace/blob/main/hackathon1.jpg)
+5. Use the intuitive interface to retrieve and analyze suspended account tweets.
+   - Open the results file named username.webarchive.
+   ![Result Page](https://github.com/Badhrinathan/X-Trace/blob/main/hackathon2.jpg)
 ## X-Trace Working
 
 To understand how X-Trace works, please refer to the project documentation and codebase.
