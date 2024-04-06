@@ -26,7 +26,7 @@ To understand how X-Trace works, please refer to the project documentation and c
 
 ## Open Source Contributor
 
-Special thanks to open-source contributor [Paul Jeremiah](https://github.com/0xcyberpj) for their valuable contributions to the project.
+Special thanks to open-source contributor [Paul Jeremiah](https://github.com/0xcyberpj) for their valuable contributions to the project Tweet Machine.
 
 
 ## Contact
